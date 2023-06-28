@@ -1,0 +1,4 @@
+com/makhabatusen/lesson_1_layout/MainActivity.java
+ com.makhabatusen.lesson_1_layout.MainActivity
+com/makhabatusen/lesson_1_layout/BuildConfig.java
+ com.makhabatusen.lesson_1_layout.BuildConfig
